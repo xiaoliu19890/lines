@@ -1,1 +1,3 @@
-["http://bakup.tbrapi.info:8080/api.php", "test"]
+{
+    "host": ["http://bakup.tbrapi.info:8080/api.php"]
+}
