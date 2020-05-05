@@ -1,3 +1,3 @@
 {
-    "host": ["https://x.heibox.info/api.php","https://x.heibox.org/api.php","https://x.heibox.net/api.php"]
+    "host": ["http://x.heibox.info/api.php","http://x.heibox.org/api.php","http://x.heibox.net/api.php"]
 }
