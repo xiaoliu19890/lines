@@ -1,3 +1,3 @@
 {
-    "host": ["http://backup.lubanana.me"]
+    "host": ["x.heibox.info","x.heibox.org","x.heibox.net"]
 }
