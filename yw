@@ -1,1 +1,3 @@
-https://ywei.yesebo.net/api.php
+{
+    "host": ["https://ywei.yesebo.net/api.php"]
+}
